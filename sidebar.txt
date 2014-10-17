@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zpc:home|Door43 (zpc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zpc|d43-zpc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zpc/archive/master.zip|d43-zpc.zip]]
+
+**Recent Changes**
+{{changes>ns = zpc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zpc|Ethnologue data]]
+
